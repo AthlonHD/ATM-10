@@ -1,6 +1,6 @@
 {
 	chapter.007B547630FF0478.title: "Theurgy"
-	chapter.05E614FDA677D85E.title: "Food and Farming"
+	chapter.05E614FDA677D85E.title: "食物与农业"
 	chapter.07210DDF872160BA.title: "应用能源2"
 	chapter.0A093D8C4429B627.title: "通用机械: Reactors"
 	chapter.0A52D0932DA3F809.title: "怪物神经网络"
@@ -23,10 +23,10 @@
 	chapter.2FB24A5A597459FC.title: "铁路"
 	chapter.3456E0C530C0038E.title: "邪恶工艺"
 	chapter.37BC0E99F564D560.title: "Steam Age"
-	chapter.3C78926E5D301BA0.title: "Extreme Reactors"
+	chapter.3C78926E5D301BA0.title: "极限反应堆"
 	chapter.3DEB33F78398EAD6.chapter_subtitle: ["And LaserIO"]
 	chapter.3DEB33F78398EAD6.title: "基础物流"
-	chapter.415BA265E2C00859.title: "Getting Started"
+	chapter.415BA265E2C00859.title: "入门"
 	chapter.4293754F9B2D05F0.title: "&a第二章&r: &eAllthemodium"
 	chapter.43BB00A7A7E1042C.title: "魔法使"
 	chapter.4791C8461B1B4D5F.title: "基础护甲"
@@ -46,7 +46,7 @@
 	chapter.6AEC23C6D526F362.title: "永恒星光"
 	chapter.6AEDA2F9BEB57759.title: "新生魔艺"
 	chapter.73180B829B960E63.title: "Generators N Furnaces"
-	chapter.732824E03978A934.title: "&a第一章&r: &bThe Beginning"
+	chapter.732824E03978A934.title: "&a第一章&r： &bThe Beginning"
 	chapter.76DF5FAA7961E5E7.title: "Iron的法术与魔法书"
 	chapter.7732CF7AAA63DB3A.title: "暮色森林"
 	chapter.792AD692F1468B1F.chapter_subtitle: ["Plus Star Automation!"]
@@ -4847,8 +4847,8 @@
 	quest.3317E676CEE83609.quest_desc: [" The Second Scroll you need activated to get Replica is the Scroll of Immunity Exchange. To get it you'll need the Ritual of Immunity Exchange which needs 1 Powdered Eye and 2 Powdered Emeralds."]
 	quest.3317E676CEE83609.title: "Scroll of Immunity Exchange"
 	quest.3320ADFD7DC4CA00.quest_subtitle: "Increases RF Capacity, and slightly increases the RF Transfer"
-	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors can be pretty scary to some especially with the dangerous effects of them! \\n\\nLuckily the only thing scary about &a&lExtreme Reactors&r is how confusing it can be to follow the recipes! \\n\\nNot the explody part they don't do that."]
-	quest.3331EBE1BB4BF64D.title: "&a&lExtreme Reactors"
+	quest.3331EBE1BB4BF64D.quest_desc: ["Nuclear Reactors can be pretty scary to some especially with the dangerous effects of them! \\n\\nLuckily the only thing scary about &a&l极限反应堆&r is how confusing it can be to follow the recipes! \\n\\nNot the explody part they don't do that."]
+	quest.3331EBE1BB4BF64D.title: "&a&l极限反应堆"
 	quest.3334D15766A47A46.quest_desc: ["Using a Laser Assembly Program you can speed up the production of &3Unassembled PCBs&r. Just put an Empty PCB in the input chest, pump in some pressure and wait."]
 	quest.3334D15766A47A46.title: "Automating PCBs"
 	quest.333682022948E2F3.quest_desc: ["{image:atm:textures/questpics/基础护甲/护甲_thioquartz.png width:100 height:150 align:center}"]
@@ -5592,7 +5592,7 @@
 	quest.3BD73FEAE853D350.quest_subtitle: "Found in Villages in Taigas or Snowy Taigas"
 	quest.3BD73FEAE853D350.title: "&bIce Skates"
 	quest.3BDB94F17765EE77.quest_desc: [
-		"If you're looking to generate a ton of 能源, you can start by scaling up some of the options from the &9Mid Game 能源&r section. Make your &eExtreme Reactors&r bigger. Upgrade your &9Thermo Gens&r to Nitro. Go wild. "
+		"If you're looking to generate a ton of 能源, you can start by scaling up some of the options from the &9Mid Game 能源&r section. Make your &e极限反应堆&r bigger. Upgrade your &9Thermo Gens&r to Nitro. Go wild. "
 		""
 		"&9通用机械&r also has an end game 能源 option that is tough to beat. "
 		""
@@ -6216,7 +6216,7 @@
 		"Now we have our Multi-Layered Fiber Reinforced Printed Circuit Boards, and we can directly use them in our next Tier of Processors!"
 	]
 	quest.41AE8AEA3EB144F3.quest_subtitle: "Finish em!"
-	quest.41C0948CD9D50322.quest_desc: ["Here you'll find all of the rewards you can get by slaying enemies."]
+	quest.41C0948CD9D50322.quest_desc: ["Here you'll find all of the 奖励 you can get by slaying enemies."]
 	quest.41C0948CD9D50322.quest_subtitle: "Killing All The Things"
 	quest.41C0948CD9D50322.title: "Bounty Board"
 	quest.41C661E8630D0146.quest_subtitle: "&f5 &cAttack Damage"
@@ -6394,7 +6394,7 @@
 		""
 		"Gas Burning Generators are only about 11% as strong as normal. "
 		""
-		"Starting Powah generators have been buffed. Extreme Reactors have been buffed. The 通用机械 Bio Generator has been buffed. Generators Galore has stronger starting generators too!"
+		"Starting Powah generators have been buffed. 极限反应堆 have been buffed. The 通用机械 Bio Generator has been buffed. Generators Galore has stronger starting generators too!"
 	]
 	quest.437AF6A8A63413A8.quest_subtitle: "能源??  POWAH!"
 	quest.437DB2CE10D33A08.quest_desc: ["You'll need to grab yourself a &6Glowstone Nest&r and head to the Nether to capture this bee!"]
@@ -8111,11 +8111,11 @@
 	quest.541D270451DA4320.quest_desc: ["The Switch Track will be needed for moving lanes between the different Special &6Tracks&r. The Arrows on it show which goes where."]
 	quest.5424A0E1292B13EE.quest_desc: ["Around the Starlight you might find Hot Ponds. \\n\\n(These aren't a biome or structure so you'll need to just look around to find them!) \\n\\nWithin them you can find Thermal Springstone."]
 	quest.54277F570314DCE1.quest_desc: [
-		"&dExtreme Reactors&r is all about creating customizable multiblock reactors and turbines for all of your 能源 needs!"
+		"&d极限反应堆&r is all about creating customizable multiblock reactors and turbines for all of your 能源 needs!"
 		""
 		"{\"clickEvent\": {\"action\": \"change_page\", \"value\": \"3C78926E5D301BA0\"}, \"text\": \"Click here to check out the questline!\", \"color\": \"#55FF55\", \"underlined\": \"true\"}"
 	]
-	quest.54277F570314DCE1.title: "&dExtreme Reactors&r"
+	quest.54277F570314DCE1.title: "&d极限反应堆&r"
 	quest.542C6D76B579886C.quest_desc: ["Using our Enchanting Apparatus structure, we'll want to craft our first seed, the &5Magebloom Seed&r. \\n\\nThis will be used to create us some 魔法al clothing!"]
 	quest.5436157FDFC9633E.quest_desc: ["With the Infused &dPatrick &aStar&r, 5 &6Star Fragments&r, &5Corrupti Dust&r, &cMundabitur Dust&r, and the Lens of the &4Killer&r we can rebuild &6&lATM Stars&r, 100% automated! \\n\\nNow these &5Creative&r Items will be a breeze to craft!"]
 	quest.5436157FDFC9633E.title: "Fully Automated &6&lATM Star"
@@ -8356,7 +8356,7 @@
 	quest.5716E84828EC0C23.quest_desc: ["Plastic Construction Bricks are Blocks made through &l&7气动工艺: Repressurized&r. \\n\\nJust like their real life counter parts they hurt to step on! \\n\\nSo either wear Shoes or smooth down the Bricks."]
 	quest.5716E84828EC0C23.title: "Plastic Construction Bricks"
 	quest.571CC5558B87377D.quest_desc: [
-		"The Crystal Cannon is a very fun and dangerous Weapon added from &6&lBumblezone&r! \\n\\nBut like all Cannons, it is best to practice. The Cannon Range is made for that! \\n\\nThere you will find plenty of Cannons, &5Crystals&r, and Targets to hit! Then you can take the rewards for hitting the Target Blocks."
+		"The Crystal Cannon is a very fun and dangerous Weapon added from &6&lBumblezone&r! \\n\\nBut like all Cannons, it is best to practice. The Cannon Range is made for that! \\n\\nThere you will find plenty of Cannons, &5Crystals&r, and Targets to hit! Then you can take the 奖励 for hitting the Target Blocks."
 		"{image:atm:textures/questpics/bumblezone/bumble_range.png width:200 height:100 align:center}"
 	]
 	quest.571CC5558B87377D.title: "Cannon Range"
@@ -10475,12 +10475,12 @@
 		"You need a higher tier cutter to cut the higher tier chips to achieve higher tiers of 能源"
 	]
 	quest.6D6E07564D8FDD8D.quest_desc: [
-		"&9Extreme Reactors&r offers multi-block reactors that are completely customizable in size, efficiency, and more. "
+		"&9极限反应堆&r offers multi-block reactors that are completely customizable in size, efficiency, and more. "
 		""
-		"To learn more about getting started with Extreme Reactors, check out the questline for the mod!"
+		"To learn more about getting started with 极限反应堆, check out the questline for the mod!"
 	]
 	quest.6D6E07564D8FDD8D.quest_subtitle: "Customizable Reactors!"
-	quest.6D6E07564D8FDD8D.title: "Extreme Reactors"
+	quest.6D6E07564D8FDD8D.title: "极限反应堆"
 	quest.6D738730B371B152.quest_desc: ["The &l&7Mining Dimension&r is a Superflat world with absolutely nothing on the surface. \\n\\nBelow the surface is almost every single Ore. \\n\\nThe &7&lMining Dimension&r has no Caves, no Mob Spawns, and nothing to get in your way. It's just Stone types and Ores! \\n\\nOre spawns differ for the Y Level and layer in the &7&lMining Dimension&r.\\n\\nI recommend setting up a Quarry."]
 	quest.6D738730B371B152.title: "&l&7Mining Dimension"
 	quest.6D750A38944E9B68.quest_desc: [
@@ -12023,9 +12023,9 @@
 	quest.7C3F65B5DAC7E57B.title: "&dShadow Glaive"
 	quest.7C4D8AA107780795.quest_desc: ["By using the &aFluidizer&r, we can combine &dBlutonium&r with &eYellorium&r to make &2Verderium.\\n\\nWhen used as fuel in a reactor, &2Verderium&r produces &cRossinite&r as a reactant. We need this!\\n\\nTo use &2Verderium&r as a fuel, you'll need to make &cFuel Injection Ports&r for your reactor.\\n\\nNote: You might need to empty out the fuel currently in your reactor, or make a new reactor for this purpose. "]
 	quest.7C4D8AA107780795.title: "Rossinite"
-	quest.7C4E4793DA887DE4.quest_desc: ["Based off of the original mod &eBig Reactors&r, &aExtreme Reactors&r allows you to build customizable multiblock Reactors!\\n\\nThe main element is of course, Uranium. You'll need this and a lot of coal and iron to get building.\\n\\nIf you're ever lost along the way, refer to &aThe Extreme Book&r for help! "]
+	quest.7C4E4793DA887DE4.quest_desc: ["Based off of the original mod &eBig Reactors&r, &a极限反应堆&r allows you to build customizable multiblock Reactors!\\n\\nThe main element is of course, Uranium. You'll need this and a lot of coal and iron to get building.\\n\\nIf you're ever lost along the way, refer to &aThe Extreme Book&r for help! "]
 	quest.7C4E4793DA887DE4.quest_subtitle: "It's not edible... trust me"
-	quest.7C4E4793DA887DE4.title: "欢迎 to &9Extreme Reactors&r!"
+	quest.7C4E4793DA887DE4.title: "欢迎 to &9极限反应堆&r!"
 	quest.7C61906C6C87C97D.quest_desc: [
 		"The &9Electromagnetic Coil&r is placed directly on top of the &aRotational Complex&r to convert the kinetic energy into 能源."
 		""
@@ -12386,39 +12386,39 @@
 	reward_table.04285B94275AB879.title: "Powah: Rods and Cables"
 	reward_table.047C4C58EC06DBF3.title: "Powah: Hardened"
 	reward_table.06C4634E81851A6C.title: "Reward: Common"
-	reward_table.08F142CC52B97FF5.title: "Twilight Forest: Rewards"
-	reward_table.0A18991D9745743A.title: "AE2: 基础 Rewards"
-	reward_table.0C83C7A93ED80A36.title: "自然灵气: Rewards"
+	reward_table.08F142CC52B97FF5.title: "Twilight Forest: 奖励"
+	reward_table.0A18991D9745743A.title: "AE2: 基础奖励"
+	reward_table.0C83C7A93ED80A36.title: "自然灵气: 奖励"
 	reward_table.11204745E52B4C0C.title: "Logs \\& Saplings"
 	reward_table.13DF975BE0A23373.title: "Powah: Nitro"
 	reward_table.1AE4A39086CA5564.title: "MA: Tier 4 Seed Bag"
 	reward_table.1C750D27FEF7C386.title: "Powah: Blazing"
 	reward_table.1DB1EEDA7B79672B.title: "铁路: Rails"
-	reward_table.1EC6956FA2BB2B00.title: "基础 存储: Rewards"
+	reward_table.1EC6956FA2BB2B00.title: "基础 存储: 奖励"
 	reward_table.21B1896C13F84C09.title: "MA: Tier 2 Seed Bag"
 	reward_table.37F912BDB7C8E6B6.title: "1x1 Wooden Drawers"
 	reward_table.3A3BDBA4E9AD13C4.title: "Reward: Uncommon"
 	reward_table.3AC97B13FF3E4FD3.title: "Powah: Starter"
 	reward_table.43C220CBD5447FE6.title: "PNC: PCB Tier"
-	reward_table.471CE0CD88F57EDC.title: "IF: 基础 Rewards"
+	reward_table.471CE0CD88F57EDC.title: "IF: 基础 奖励"
 	reward_table.481E10AEAC95C550.title: "Reward: Legendary"
 	reward_table.4B19C9059B3AA9AC.title: "Powah: 基础"
 	reward_table.4D37FFAF33DF678A.title: "Reward: Rare"
 	reward_table.4E550B6FE754E446.title: "Powah: Niotic"
-	reward_table.517CB2DAB0515A50.title: "AE2: Advanced Rewards"
+	reward_table.517CB2DAB0515A50.title: "AE2: Advanced 奖励"
 	reward_table.51D32A776892238B.title: "Powah: Spirited"
 	reward_table.57002573D954732E.title: "PNC: 基础 Tier"
-	reward_table.5832C9BCFDB476AF.title: "新生魔艺: Rewards"
+	reward_table.5832C9BCFDB476AF.title: "新生魔艺: 奖励"
 	reward_table.5A138D1EDF8AA0C1.title: "PNC: Plastic Tier"
 	reward_table.5AF0FD7302DEC2B1.title: "MA: Tier 1 Seed Bag"
-	reward_table.611A165B35847A5A.title: "Bumblezone: Rewards"
+	reward_table.611A165B35847A5A.title: "Bumblezone: 奖励"
 	reward_table.617F6D802ED0FD00.title: "Reward: Epic"
-	reward_table.636C0F2A58AD8FC1.title: "MA: 基础 Rewards"
-	reward_table.63E11953DD289422.title: "通用机械: Rewards"
+	reward_table.636C0F2A58AD8FC1.title: "MA: 基础 奖励"
+	reward_table.63E11953DD289422.title: "通用机械: 奖励"
 	reward_table.64E6D6A658988648.title: "MA: Tier 3 Seed Bag"
-	reward_table.67D8094B10FAA687.title: "邪恶工艺: Rewards"
-	reward_table.73E94318B401E916.title: "IF: Advanced Rewards"
-	reward_table.74164DBBE7919A3B.title: "通用机械 Reactors: Rewards"
+	reward_table.67D8094B10FAA687.title: "邪恶工艺: 奖励"
+	reward_table.73E94318B401E916.title: "IF: Advanced 奖励"
+	reward_table.74164DBBE7919A3B.title: "通用机械 Reactors: 奖励"
 	reward_table.75FE7CDF68581EDE.title: "铁路: Random"
 	reward_table.7609CF2A167B45C8.title: "Theurgy: Salt"
 	reward_table.779C873798AE0A92.title: "Mahou: Powders"
